@@ -9,4 +9,4 @@ So for this project we had to use some basics html and css tags. But we can add 
 This is how the website look : 
 
 
-<img src=assets/WebsiteLook.png  width=200>
+<img src=assets/WebsiteLook.png  width=500>

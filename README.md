@@ -1,4 +1,4 @@
-### School Webiste
+## School Webiste
 
 I designed this website for school it's about 3D printers cause we had to choose a theme for our website.
 

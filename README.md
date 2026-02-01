@@ -10,3 +10,5 @@ This is how the website look :
 
 
 <img src=assets/WebsiteLook.png  width=500>
+
+The website has 2 pages one is Home and the other is the filament one who give more details on the filaments that we use to print. 
